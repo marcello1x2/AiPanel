@@ -26,10 +26,10 @@ The agent could not fully replace human experience as it can emulate distributio
 Risk of conceptual data leakage by over-calibrating on past data, it may crystallize outdated patterns and miss genuine market or cultural shifts.
 
 # What next
-Phase 1 (MVP of AiPanel): Agent generates responses for standard questionnaires with a few socio-demo variables and basic benchmarks.
-Phase 2 (Advanced sub-samples and controlled biases): Ability to simulate specific sub-samples and add  biases.
-Phase 3 (Workflow integration): Direct connectors to survey tools (Qualtrics, SurveyMonkey, Google Forms, etc.) and BI platforms
-Phase 4 (Validation): Double check result with submitting the same  survey to a real panel 
+1. MVP of AiPanel: Agent generates responses for standard questionnaires with a few socio-demo variables and basic benchmarks
+2. Advanced sub-samples and controlled biases: Ability to simulate specific sub-samples and add  biases
+3. Workflow integration: Direct connectors to survey tools (Qualtrics, SurveyMonkey, Google Forms, etc.) and BI platforms
+4. Validation: Double check result with submitting the same  survey to a real panel 
 
 # Acknowledgments
 I image to use open source data for general statistics and n8n for workflow. 
