@@ -1,3 +1,6 @@
+## Summary
+AiPanel is an AI agent that simulates research panels, including bias, values, and socio-demographic structures, to generate questionnaire responses that are nearly indistinguishable from those of real panel respondents. The goal is to reduce the cost and time of market research by creating flexible, statistically robust data for surveys.
+
 # AiPanel
 AiPanel, an AI agent that simulates real research panels
 
